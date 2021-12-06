@@ -1,4 +1,4 @@
-[14.46, 3/12/2021] Septo (BSI): <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
    
 <head>
@@ -20,4 +20,4 @@
 </head>
 
 <!-- untuk  ubah warna ada success, secondary, danger, info, primary, warning -->
-<body class="bg-gradient-warning">
+<body class="bg-success">
